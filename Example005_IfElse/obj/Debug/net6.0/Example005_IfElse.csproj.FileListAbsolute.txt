@@ -1,0 +1,15 @@
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.deps.json
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.runtimeconfig.json
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.dll
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.pdb
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.AssemblyReference.cache
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfoInputs.cache
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfo.cs
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.CoreCompileInputs.cache
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.dll
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/refint/Example005_IfElse.dll
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.pdb
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.genruntimeconfig.cache
+/Users/yurijsedetskas/Desktop/Ebaniy C#/Example005_IfElse/obj/Debug/net6.0/ref/Example005_IfElse.dll
